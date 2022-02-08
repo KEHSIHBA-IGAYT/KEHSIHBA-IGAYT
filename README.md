@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KEHSIHBA-IGAYT
 - 👀 I’m interested in Programming, Architecture, Application Design, Deployments, Freelancing
-- 🌱 I’m currently learning to architect the solution for a product
+- 🌱 I’m currently learning to architect the solution for products
 - 💞️ I’m looking to collaborate on Application designing and development
 - 📫 How to reach me - Drop a mail at abhishekcs028@gmail.com
 
